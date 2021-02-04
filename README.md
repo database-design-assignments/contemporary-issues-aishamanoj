@@ -2,7 +2,7 @@
 In this document I discuss two perspectives about the use of DNA databases by the government. 
 
 ## How DNA Databases Deter Crime
-[The creepy, dark side of DNA Databases](https://www.bloomberg.com/opinion/articles/2021-02-01/dna-databases-are-better-crime-deterrent-than-long-prison-time)
+[How DNA Databases Deter Crime](https://www.bloomberg.com/opinion/articles/2021-02-01/dna-databases-are-better-crime-deterrent-than-long-prison-time)
 This article argues that the use of DNA databases deters people from committing crimes. The author cites a study done in Denmark showed that "adding people charged with a felony to Denmark's DNA database reduced the likelihood of another conviction within the following year by 42%". DNA databases are used in every U.S. state and the state databases are linked to form a national database that is managed by the FBI. The studies also showed that expanding US state databases to include people charged with a crime (with or without a conviction) could have big crime-reduction benefits. I don't think people who have not been convicted of a crime should be in a DNA database with felons. If someone hasn't been convicted of a crime, they should not be treated like a criminal. Having this database could also lead to false convictions, if a person is a partial DNA match for DNA found at a crime scene.
 
 ## The Creepy, Dark Side of DNA Databases
